@@ -11,3 +11,4 @@ One of the most challenging parts of my code was formatting the spaces between m
 The usage of classes and header files will be applicable to all future projects and help me to modularize and secure my projects. It will also help to ensure that my code meets all aspects of the assignment as it must match the methods present in the header file to compile.
 ----
 I made this program maintainable through the use of thorough commenting and industry standard best practices. I used easy to understand variable names and commented out the functions of each aspect. I made my thoughts as a programmer very clear in these many comments. I also eliminated the use of any magic numbers or variables in my code. I also used many methods and classes which make it easy to adapt this to other programs through inheritance and method calling.
+----
