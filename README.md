@@ -1,6 +1,6 @@
 # CS-210-Module-8
 
-The goal of this project was to prompt a user for certain important financial information such as the principal, monthly pasyment, time, and interest in order to showcase how their money would grow. It would print out two tables that compared the amount with monthly deposits and without deposits.
+The goal of this project was to prompt a user for certain important financial information such as the principal, monthly payment, time, and interest in order to showcase how their money would grow. It would print out two tables that compared the amount with monthly deposits and without deposits.
 ----
 I feel like my table formatting was done relatively well considering I tried to shy away from more advanced formatting techniques. I tried to use only basic for loops and text elements in order to create a nice end user format which I believe turnedout nice.
 ----
